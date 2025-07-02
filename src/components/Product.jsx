@@ -9,6 +9,7 @@ function Product({product}) {
       <div className="card__info">
           <h5 className='card__title'>{title}</h5>
           <small className='card__price'>Price: ${price}</small>
+          <small className='card__price'>Price: ${price}</small>
       </div>
     </div>
   )
